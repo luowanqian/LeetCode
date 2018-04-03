@@ -7,14 +7,12 @@ public:
     int hammingWeight(uint32_t n)
     {
         int num_bits;
-        uint32_t flag;
 
         num_bits = 0;
-        flag = 1;
-        while (flag) {
-            if (flag & n)
+        while (n) {
+            if (n & 1)
                 num_bits++;
-            flag = flag << 1;
+            n = n >> 1;
         }
 
         return num_bits;
