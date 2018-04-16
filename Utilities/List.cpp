@@ -4,9 +4,9 @@
 
 ListNode* create_list_node(int value)
 {
-    ListNode *node = new ListNode;
-    node->val = value;
-    node->next = NULL;
+    ListNode *node = new ListNode(value);
+    //node->val = value;
+    //node->next = NULL;
 
     return node;
 }

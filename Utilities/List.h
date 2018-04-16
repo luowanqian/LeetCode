@@ -5,6 +5,7 @@ struct ListNode
 {
     int val;
     ListNode *next;
+    ListNode(int x) : val(x), next(NULL) {}
 };
 
 ListNode* create_list_node(int value);
