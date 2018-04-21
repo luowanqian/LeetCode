@@ -29,7 +29,6 @@ public:
         for (int i=0; i<banned.size(); i++)
             banned_list.insert(banned[i]);
 
-        char ch;
         int times, max_times;
         string str, common_str;
         int start, end;
