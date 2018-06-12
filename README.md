@@ -4,6 +4,7 @@
 - [x] [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)
 - [x] [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)
 - [x] [15. 3Sum](https://leetcode.com/problems/3sum/description/)
+- [x] [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
 - [x] [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
 - [x] [136. Single Number](https://leetcode.com/problems/single-number/description/)
 - [x] [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
@@ -21,6 +22,7 @@
 - [x] [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/)
 - [x] [657. Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/)
 - [x] [696. Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/)
+- [x] [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)
 - [x] [819. Most Common Word](https://leetcode.com/problems/most-common-word/description/)
 
 
