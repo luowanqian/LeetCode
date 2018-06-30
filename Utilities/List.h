@@ -1,6 +1,8 @@
 #ifndef SOLUTIONS_LIST_H
 #define SOLUTIONS_LIST_H
 
+#include <cstdio>
+
 struct ListNode
 {
     int val;
