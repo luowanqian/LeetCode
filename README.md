@@ -30,6 +30,7 @@
 - [x] [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/)
 - [x] [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/)
 - [x] [657. Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/)
+- [x] [669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/)
 - [x] [696. Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/)
 - [x] [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)
 - [x] [819. Most Common Word](https://leetcode.com/problems/most-common-word/description/)
