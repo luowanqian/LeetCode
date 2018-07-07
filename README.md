@@ -21,6 +21,7 @@
 - [x] [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)
 - [x] [344. Reverse String](https://leetcode.com/problems/reverse-string/description/)
 - [x] [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)
+- [x] [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)
 - [x] [383. Ransom Note](https://leetcode.com/problems/ransom-note/description/)
 - [x] [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)
 - [x] [415. Add Strings](https://leetcode.com/problems/add-strings/description/)
@@ -34,5 +35,6 @@
 - [x] [696. Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/)
 - [x] [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)
 - [x] [819. Most Common Word](https://leetcode.com/problems/most-common-word/description/)
+- [x] [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)
 
 
