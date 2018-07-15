@@ -2,9 +2,11 @@
 
 - [x] [1. Two Sum](https://leetcode.com/problems/two-sum/description/)
 - [x] [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)
+- [x] [6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)
+- [x] [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)
 - [x] [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)
 - [x] [15. 3Sum](https://leetcode.com/problems/3sum/description/)
-- [ ] [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)
+- [x] [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)
 - [x] [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
 - [x] [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
 - [x] [100. Same Tree](https://leetcode.com/problems/same-tree/description/)
