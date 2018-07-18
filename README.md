@@ -10,6 +10,8 @@
 - [x] [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
 - [x] [15. 3Sum](https://leetcode.com/problems/3sum/description/)
 - [x] [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
+- [x] [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
+- [x] [27. Remove Element](https://leetcode.com/problems/remove-element/description/)
 - [x] [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)
 - [x] [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
 - [x] [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
