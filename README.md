@@ -21,6 +21,7 @@
 - [x] [67. Add Binary](https://leetcode.com/problems/add-binary/description/)
 - [x] [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)
 - [x] [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
+- [x] [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)
 - [x] [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
 - [x] [100. Same Tree](https://leetcode.com/problems/same-tree/description/)
 - [x] [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)
