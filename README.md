@@ -19,6 +19,7 @@
 - [x] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
 - [x] [66. Plus One](https://leetcode.com/problems/plus-one/description/)
 - [x] [67. Add Binary](https://leetcode.com/problems/add-binary/description/)
+- [x] [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)
 - [x] [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
 - [x] [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
 - [x] [100. Same Tree](https://leetcode.com/problems/same-tree/description/)
