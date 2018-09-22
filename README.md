@@ -39,6 +39,7 @@
 - [x] [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)
 - [x] [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)
 - [x] [155. Min Stack](https://leetcode.com/problems/min-stack/description/)
+- [x] [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)
 - [x] [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
 - [x] [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)
 - [x] [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
