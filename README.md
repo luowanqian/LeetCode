@@ -67,5 +67,4 @@
 - [x] [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)
 - [x] [819. Most Common Word](https://leetcode.com/problems/most-common-word/description/)
 - [x] [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)
-
-
+- [x] [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)
