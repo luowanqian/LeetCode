@@ -44,6 +44,7 @@
 - [x] [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
 - [x] [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)
 - [x] [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
+- [x] [207. Course Schedule](https://leetcode.com/problems/course-schedule/)
 - [x] [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
 - [x] [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)
 - [x] [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)
