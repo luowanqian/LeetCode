@@ -16,7 +16,9 @@
 | 26  | [Remove Duplicates from Sorted Array](./26_RemoveDuplicatesFromSortedArray/) |
 | 27  | [Remove Element](./27_RemoveElement/) |
 | 28  | [Implement strStr()](./28_Implement_Strstr/) |
+| 29  | [Divide Two Integers](./29_DivideTwoIntegers/) |
 | 35  | [Search Insert Position](./35_SearchInsertPosition/) |
+| 36  | [Valid Sudoku](./36_ValidSudoku/) |
 | 45  | [Jump Game II](./45_JumpGameII/) |
 | 53  | [Maximum Subarray](./53_MaximumSubarray/) |
 | 66  | [Plus One](./66_PlusOne/) |
