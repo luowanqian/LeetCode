@@ -21,6 +21,7 @@
 | 29  | [Divide Two Integers](./29_DivideTwoIntegers/) |
 | 35  | [Search Insert Position](./35_SearchInsertPosition/) |
 | 36  | [Valid Sudoku](./36_ValidSudoku/) |
+| 43  | [Multiply Strings](./43_MultiplyStrings/) |
 | 45  | [Jump Game II](./45_JumpGameII/) |
 | 53  | [Maximum Subarray](./53_MaximumSubarray/) |
 | 66  | [Plus One](./66_PlusOne/) |
