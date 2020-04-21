@@ -23,11 +23,13 @@
 | 36  | [Valid Sudoku](./36_ValidSudoku/) |
 | 43  | [Multiply Strings](./43_MultiplyStrings/) |
 | 45  | [Jump Game II](./45_JumpGameII/) |
+| 50  | [Pow(x, n)](./50_Pow/) |
 | 53  | [Maximum Subarray](./53_MaximumSubarray/) |
 | 66  | [Plus One](./66_PlusOne/) |
 | 67  | [Add Binary](./67_AddBinary/) |
 | 69  | [Sqrt(x)](./69_SqrtX/) |
 | 70  | [Climbing Stairs](./70_ClimbingStairs/) |
+| 75  | [Sort Colors](./75_SortColors/) |
 | 83  | [Remove Duplicates from Sorted List](./83_RemoveDuplicatesFromSortedList/) |
 | 88  | [Merge Sorted Array](./88_MergeSortedArray/) |
 | 98  | [Validate Binary Search Tree](./98_ValidateBinarySearchTree/) |
