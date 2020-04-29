@@ -50,7 +50,8 @@
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) |
 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/description/) |
-| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) |
+| 141 | [Linked List Cycle](./141_LinkedListCycle) |
+| 142 | [Linked List Cycle II](./142_LinkedListCycleII) |
 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/description/) |
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/description/) |
