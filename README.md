@@ -53,6 +53,7 @@
 | 141 | [Linked List Cycle](./141_LinkedListCycle) |
 | 142 | [Linked List Cycle II](./142_LinkedListCycleII) |
 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) |
+| 160 | [Intersection of Two Linked Lists](./160_IntersectionOfTwoLinkedLists/) |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/description/) |
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/description/) |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) |
