@@ -58,15 +58,18 @@
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/description/) |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) |
+| 203 | [Remove Linked List Elements](./203_RemoveLinkedListElements) |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) |
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) |
 | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) |
+| 328 | [Odd Even Linked List](./328_OddEvenLinkedList) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) |
+| 367 | [Valid Perfect Square](./367_ValidPerfectSquare) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/description/) |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) |
 | 415 | [Add Strings](https://leetcode.com/problems/add-strings/description/) |
