@@ -59,7 +59,7 @@
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) |
 | 203 | [Remove Linked List Elements](./203_RemoveLinkedListElements) |
-| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) |
+| 206 | [Reverse Linked List](./206_ReverseLinkedList/) |
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) |
