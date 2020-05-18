@@ -56,7 +56,7 @@ int main()
     if (NULL != cycle) {
         cout << "Cycle start at node: " << cycle->val << endl;
     } else {
-        cout << "N0 cycle" << endl;
+        cout << "NO cycle" << endl;
     }
 
     return 0;
