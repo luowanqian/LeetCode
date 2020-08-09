@@ -27,6 +27,7 @@
 | 45  | [Jump Game II](./45_JumpGameII/) |
 | 50  | [Pow(x, n)](./50_Pow/) |
 | 53  | [Maximum Subarray](./53_MaximumSubarray/) |
+| 56  | [56. Merge Intervals](./56_MergeIntervals) |
 | 66  | [Plus One](./66_PlusOne/) |
 | 67  | [Add Binary](./67_AddBinary/) |
 | 69  | [Sqrt(x)](./69_SqrtX/) |
