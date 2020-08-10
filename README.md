@@ -68,7 +68,7 @@
 | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) |
 | 328 | [Odd Even Linked List](./328_OddEvenLinkedList) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) |
-| 347 | [Top K Frequent Elements](./347_TopKFrequentElement/) |
+| 347 | [Top K Frequent Elements](./347_TopKFrequentElements/) |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) |
 | 367 | [Valid Perfect Square](./367_ValidPerfectSquare) |
