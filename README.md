@@ -67,6 +67,7 @@
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) |
 | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) |
 | 328 | [Odd Even Linked List](./328_OddEvenLinkedList) |
+| 341 | [Flatten Nested List Iterator](./341_FlattenNestedListIterator/) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) |
 | 347 | [Top K Frequent Elements](./347_TopKFrequentElements/) |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) |
@@ -75,6 +76,7 @@
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/description/) |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) |
 | 415 | [Add Strings](https://leetcode.com/problems/add-strings/description/) |
+| 456 | [132 Pattern](./456_132Pattern/) |
 | 515 | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/) |
 | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/description/) |
 | 521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/) |
