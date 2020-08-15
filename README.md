@@ -21,10 +21,13 @@
 | 27  | [Remove Element](./27_RemoveElement/) |
 | 28  | [Implement strStr()](./28_Implement_Strstr/) |
 | 29  | [Divide Two Integers](./29_DivideTwoIntegers/) |
+| 31  | [Next Permutation](./31_NextPermutation/) |
 | 35  | [Search Insert Position](./35_SearchInsertPosition/) |
 | 36  | [Valid Sudoku](./36_ValidSudoku/) |
 | 43  | [Multiply Strings](./43_MultiplyStrings/) |
 | 45  | [Jump Game II](./45_JumpGameII/) |
+| 46  | [Permutations](./46_Permutations/) |
+| 47  | [Permutations II](./47_PermutationsII/) |
 | 50  | [Pow(x, n)](./50_Pow/) |
 | 53  | [Maximum Subarray](./53_MaximumSubarray/) |
 | 56  | [Merge Intervals](./56_MergeIntervals) |
@@ -89,6 +92,7 @@
 | 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) |
 | 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/) |
 | 703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) |
+| 739 | [Daily Temperatures](./739_DailyTemperatures/) |
 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) |
 | 819 | [Most Common Word](https://leetcode.com/problems/most-common-word/description/) |
 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) |
