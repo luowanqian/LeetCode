@@ -6,6 +6,7 @@
 | ---- | ---- |
 | 1   | [Two Sum](./1_TwoSum/) |
 | 2   | [Add Two Numbers](./2_AddTwoNumbers/) |
+| 3   | [Longest Substring Without Repeating Characters](./3_LongestSubstringWithoutRepeatingCharacters/)
 | 6   | [ZigZag Conversion](./6_ZigZagConversion/) |
 | 7   | [Reverse Integer](./7_ReverseInteger/) |
 | 9   | [Palindrome Number](./9_PalindromeNumber/) |
@@ -80,6 +81,7 @@
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) |
 | 415 | [Add Strings](https://leetcode.com/problems/add-strings/description/) |
 | 456 | [132 Pattern](./456_132Pattern/) |
+| 438 | [Find All Anagrams in a String](./438_FindAllAnagramsInAString/) |
 | 515 | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/) |
 | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/description/) |
 | 521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/) |

@@ -5,6 +5,6 @@ set(CMAKE_CXX_STANDARD 11)
 
 include_directories(Utilities)
 
-set(PROBLEM_SOURCES 47_PermutationsII/solution1.cpp)
-set(UTILITIES_SOURCE Utilities/BinaryTree.cpp Utilities/List.cpp 341_FlattenNestedListIterator/nested_list.h)
+set(PROBLEM_SOURCES 3_LongestSubstringWithoutRepeatingCharacters/solution1.cpp)
+set(UTILITIES_SOURCE Utilities/BinaryTree.cpp Utilities/List.cpp)
 add_executable(LeetCode ${UTILITIES_SOURCE} ${PROBLEM_SOURCES})
