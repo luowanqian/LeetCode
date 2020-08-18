@@ -51,6 +51,7 @@
 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) |
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/description/) |
 | 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/) |
+| 116 | [Populating Next Right Pointers in Each Node](./116_PopulatingNextRightPointersInEachNode/) |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) |
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) |
 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) |
@@ -86,6 +87,7 @@
 | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/description/) |
 | 521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/) |
 | 532 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/) |
+| 543 | [Diameter of Binary Tree](./543_DiameterOfBinaryTree/) |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) |
 | 657 | [Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/) |
