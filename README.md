@@ -39,6 +39,7 @@
 | 75  | [Sort Colors](./75_SortColors/) |
 | 83  | [Remove Duplicates from Sorted List](./83_RemoveDuplicatesFromSortedList/) |
 | 88  | [Merge Sorted Array](./88_MergeSortedArray/) |
+| 94  | [Binary Tree Inorder Traversal](./1-100/94_BinaryTreeInorderTraversal/) |
 | 98  | [Validate Binary Search Tree](./98_ValidateBinarySearchTree/) |
 | 100 | [Same Tree](./100_SameTree/) |
 | 101 | [Symmetric Tree](./101_SymmetricTree/) |
@@ -58,6 +59,8 @@
 | 136 | [Single Number](https://leetcode.com/problems/single-number/description/) |
 | 141 | [Linked List Cycle](./141_LinkedListCycle) |
 | 142 | [Linked List Cycle II](./142_LinkedListCycleII) |
+| 144 | [Binary Tree Preorder Traversal](./101-200/144_BinaryTreePreorderTraversal/) |
+| 145 | [Binary Tree Postorder Traversal](./101-200/145_BinaryTreePostorderTraversal/) |
 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) |
 | 155 | [Min Stack](./155_MinStack/) |
 | 160 | [Intersection of Two Linked Lists](./160_IntersectionOfTwoLinkedLists/) |
