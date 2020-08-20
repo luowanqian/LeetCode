@@ -1,3 +1,7 @@
+/*
+ * Bottom-up solution
+ */
+
 #include <iostream>
 #include "BinaryTree.h"
 using namespace std;

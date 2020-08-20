@@ -43,8 +43,8 @@
 | 98  | [Validate Binary Search Tree](./98_ValidateBinarySearchTree/) |
 | 100 | [Same Tree](./100_SameTree/) |
 | 101 | [Symmetric Tree](./101_SymmetricTree/) |
-| 102 | [Binary Tree Level Order Traversal](./102_BinaryTreeLevelOrderTraversal/) |
-| 104 | [Maximum Depth of Binary Tree](./104_MaximumDepthOfBinaryTree/) |
+| 102 | [Binary Tree Level Order Traversal](./101-200/102_BinaryTreeLevelOrderTraversal/) |
+| 104 | [Maximum Depth of Binary Tree](./101-200/104_MaximumDepthOfBinaryTree/) |
 | 107 | [Binary Tree Level Order Traversal II](./107_BinaryTreeLevelOrderTraversalII/) |
 | 108 | [Convert Sorted Array to Binary Search Tree](./108_ConvertSortedArrayToBinarySearchTree/) |
 | 109 | [Convert Sorted List to Binary Search Tree](./109_ConvertSortedListToBinarySearchTree/) |
