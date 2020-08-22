@@ -5,7 +5,7 @@ set(CMAKE_CXX_STANDARD 11)
 
 include_directories(Utilities)
 
-set(PROBLEM_SOURCES 101-200/104_MaximumDepthOfBinaryTree/solution2.cpp)
+set(PROBLEM_SOURCES 1-100/77_Combinations/solution1.cpp)
 set(UTILITIES_SOURCE Utilities/BinaryTree.cpp Utilities/List.cpp)
 #set(UTILITIES_SOURCE Utilities/BinaryTree2.cpp Utilities/List.cpp)
 add_executable(LeetCode ${UTILITIES_SOURCE} ${PROBLEM_SOURCES})

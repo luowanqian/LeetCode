@@ -14,7 +14,7 @@
 | 13  | [Roman to Integer](./13_RomanToInteger/) |
 | 14  | [Longest Common Prefix](./14_LongestCommonPrefix/) |
 | 15  | [3Sum](./15_3Sum/) |
-| 17  | [Letter Combinations of a Phone Number](./17_LetterCombinationsOfAPhoneNumber/) |
+| 17  | [Letter Combinations of a Phone Number](./1-100/17_LetterCombinationsOfAPhoneNumber/) |
 | 19  | [Remove Nth Node From End of List](./19_RemoveNthNodeFromEndOfList/) |
 | 20  | [Valid Parentheses](./20_ValidParentheses/) |
 | 21  | [Merge Two Sorted Lists](./21_MergeTwoSortedLists/) |
@@ -37,6 +37,9 @@
 | 69  | [Sqrt(x)](./69_SqrtX/) |
 | 70  | [Climbing Stairs](./70_ClimbingStairs/) |
 | 75  | [Sort Colors](./75_SortColors/) |
+| 77  | [Combinations](./1-100/77_Combinations/) |
+| 78  | [Subsets](./1-100/78_Subsets/) |
+| 79  | [Word Search](./1-100/79_WordSearch/) |
 | 83  | [Remove Duplicates from Sorted List](./83_RemoveDuplicatesFromSortedList/) |
 | 88  | [Merge Sorted Array](./88_MergeSortedArray/) |
 | 94  | [Binary Tree Inorder Traversal](./1-100/94_BinaryTreeInorderTraversal/) |
