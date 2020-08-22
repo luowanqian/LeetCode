@@ -81,7 +81,7 @@
 | 341 | [Flatten Nested List Iterator](./341_FlattenNestedListIterator/) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) |
 | 347 | [Top K Frequent Elements](./347_TopKFrequentElements/) |
-| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) |
+| 349 | [Intersection of Two Arrays](./301-400/349_IntersectionOfTwoArrays/) |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) |
 | 367 | [Valid Perfect Square](./367_ValidPerfectSquare) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/description/) |
