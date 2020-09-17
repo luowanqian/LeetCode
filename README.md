@@ -6,7 +6,7 @@
 | ---- | ---- |
 | 1   | [Two Sum](./1_TwoSum/) |
 | 2   | [Add Two Numbers](./2_AddTwoNumbers/) |
-| 3   | [Longest Substring Without Repeating Characters](./3_LongestSubstringWithoutRepeatingCharacters/)
+| 3   | [Longest Substring Without Repeating Characters](./3_LongestSubstringWithoutRepeatingCharacters/) |
 | 6   | [ZigZag Conversion](./6_ZigZagConversion/) |
 | 7   | [Reverse Integer](./7_ReverseInteger/) |
 | 9   | [Palindrome Number](./9_PalindromeNumber/) |
@@ -108,3 +108,4 @@
 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) |
 | 922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) |
 | 973 | [K Closest Points to Origin](./973_KClosestPointsToOrigin/) |
+| 1143 | [Longest Common Subsequence](./1101-1200/1143_LongestCommonSubsequence/) |
