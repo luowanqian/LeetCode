@@ -48,6 +48,7 @@
 | 101 | [Symmetric Tree](./101_SymmetricTree/) |
 | 102 | [Binary Tree Level Order Traversal](./101-200/102_BinaryTreeLevelOrderTraversal/) |
 | 104 | [Maximum Depth of Binary Tree](./101-200/104_MaximumDepthOfBinaryTree/) |
+| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](./101-200/105_ConstructBinaryTreeFromPreorderAndInorderTraversal/) |
 | 107 | [Binary Tree Level Order Traversal II](./107_BinaryTreeLevelOrderTraversalII/) |
 | 108 | [Convert Sorted Array to Binary Search Tree](./108_ConvertSortedArrayToBinarySearchTree/) |
 | 109 | [Convert Sorted List to Binary Search Tree](./109_ConvertSortedListToBinarySearchTree/) |
