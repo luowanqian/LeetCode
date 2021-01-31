@@ -110,3 +110,5 @@
 | 922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) |
 | 973 | [K Closest Points to Origin](./973_KClosestPointsToOrigin/) |
 | 1143 | [Longest Common Subsequence](./1101-1200/1143_LongestCommonSubsequence/) |
+| 1472 | [Design Browser History](./1401-1500/1472_DesignBrowserHistory/) |
+
