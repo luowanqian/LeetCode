@@ -23,6 +23,7 @@
 | 28  | [Implement strStr()](./28_Implement_Strstr/) |
 | 29  | [Divide Two Integers](./29_DivideTwoIntegers/) |
 | 31  | [Next Permutation](./31_NextPermutation/) |
+| 33  | [Search in Rotated Sorted Array](./1-100/33_SearchInRotatedSortedArray/) |
 | 35  | [Search Insert Position](./35_SearchInsertPosition/) |
 | 36  | [Valid Sudoku](./36_ValidSudoku/) |
 | 43  | [Multiply Strings](./43_MultiplyStrings/) |
