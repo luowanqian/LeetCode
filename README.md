@@ -111,6 +111,7 @@
 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | |
 | 922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | |
 | 973 | [K Closest Points to Origin](./973_KClosestPointsToOrigin/) | |
+| 1191 | [K-Concatenation Maximum Sum](./1101-1200/1191_K-ConcatenationMaximumSum/) | Dynamic Programming |
 | 1143 | [Longest Common Subsequence](./1101-1200/1143_LongestCommonSubsequence/) | |
 | 1219 | [Path with Maximum Gold](./1201-1300/1219_PathWithMaximumGold/) | Backtracking |
 | 1472 | [Design Browser History](./1401-1500/1472_DesignBrowserHistory/) | |
