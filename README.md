@@ -98,8 +98,10 @@
 | 543 | [Diameter of Binary Tree](./543_DiameterOfBinaryTree/) | |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) | |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) | |
+| 633 | [Sum of Square Numbers](./601-700/633_SumOfSquareNumbers) | Two Pointers |
 | 657 | [Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/) | |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/) | |
+| 684 | [Redundant Connection](./601-700/684_RedundantConnection) | Union Find |
 | 690 | [Employee Importance](https://leetcode.com/problems/employee-importance/description/) | |
 | 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | |
 | 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/) | |
