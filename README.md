@@ -31,7 +31,7 @@
 | 46  | [Permutations](./46_Permutations/) | |
 | 47  | [Permutations II](./47_PermutationsII/) | |
 | 50  | [Pow(x, n)](./50_Pow/) | |
-| 53  | [Maximum Subarray](./53_MaximumSubarray/) | |
+| 53  | [Maximum Subarray](./1-100/53_MaximumSubarray/) | |
 | 56  | [Merge Intervals](./56_MergeIntervals) | |
 | 66  | [Plus One](./66_PlusOne/) | |
 | 67  | [Add Binary](./67_AddBinary/) | |
@@ -42,7 +42,7 @@
 | 78  | [Subsets](./1-100/78_Subsets/) | |
 | 79  | [Word Search](./1-100/79_WordSearch/) | |
 | 83  | [Remove Duplicates from Sorted List](./83_RemoveDuplicatesFromSortedList/) | |
-| 88  | [Merge Sorted Array](./88_MergeSortedArray/) | |
+| 88  | [Merge Sorted Array](./1-100/88_MergeSortedArray/) | |
 | 94  | [Binary Tree Inorder Traversal](./1-100/94_BinaryTreeInorderTraversal/) | |
 | 98  | [Validate Binary Search Tree](./98_ValidateBinarySearchTree/) | |
 | 100 | [Same Tree](./100_SameTree/) | |
@@ -76,6 +76,7 @@
 | 206 | [Reverse Linked List](./206_ReverseLinkedList/) | |
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | |
+| 217 | [Contains Duplicate](./201-300/217_ContainsDuplicate) | |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) | |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | |
 | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) | |
