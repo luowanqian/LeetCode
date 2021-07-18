@@ -60,6 +60,7 @@
 | 116 | [Populating Next Right Pointers in Each Node](./116_PopulatingNextRightPointersInEachNode/) | |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | |
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) | |
+| 121 | [Best Time to Buy and Sell Stock](./101-200/121_BestTimeToBuyAndSellStock) | |
 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/description/) | |
 | 141 | [Linked List Cycle](./141_LinkedListCycle) | |
@@ -85,7 +86,7 @@
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) | |
 | 347 | [Top K Frequent Elements](./347_TopKFrequentElements/) | |
 | 349 | [Intersection of Two Arrays](./301-400/349_IntersectionOfTwoArrays/) | |
-| 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | |
+| 350 | [Intersection of Two Arrays II](./301-400/350_IntersectionOfTwoArraysII) | |
 | 367 | [Valid Perfect Square](./367_ValidPerfectSquare) | |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/description/) | |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | |
