@@ -30,6 +30,7 @@
 | 45  | [Jump Game II](./45_JumpGameII/) | |
 | 46  | [Permutations](./46_Permutations/) | |
 | 47  | [Permutations II](./47_PermutationsII/) | |
+| 49  | [Group Anagrams](./1-100/49_GroupAnagrams) | |
 | 50  | [Pow(x, n)](./50_Pow/) | |
 | 53  | [Maximum Subarray](./1-100/53_MaximumSubarray/) | |
 | 56  | [Merge Intervals](./56_MergeIntervals) | |
