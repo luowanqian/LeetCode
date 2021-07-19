@@ -100,6 +100,7 @@
 | 532 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/) | |
 | 543 | [Diameter of Binary Tree](./543_DiameterOfBinaryTree/) | |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) | |
+| 566 | [Reshape the Matrix](./501-600/566_ReshapeTheMatrix) | |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) | |
 | 633 | [Sum of Square Numbers](./601-700/633_SumOfSquareNumbers) | Two Pointers |
 | 657 | [Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/) | |
