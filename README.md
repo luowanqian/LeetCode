@@ -25,7 +25,7 @@
 | 31  | [Next Permutation](./31_NextPermutation/) | |
 | 33  | [Search in Rotated Sorted Array](./1-100/33_SearchInRotatedSortedArray/) | |
 | 35  | [Search Insert Position](./35_SearchInsertPosition/) | |
-| 36  | [Valid Sudoku](./36_ValidSudoku/) | |
+| 36  | [Valid Sudoku](./1-100/36_ValidSudoku) | |
 | 43  | [Multiply Strings](./43_MultiplyStrings/) | |
 | 45  | [Jump Game II](./45_JumpGameII/) | |
 | 46  | [Permutations](./46_Permutations/) | |
@@ -38,6 +38,7 @@
 | 67  | [Add Binary](./67_AddBinary/) | |
 | 69  | [Sqrt(x)](./69_SqrtX/) | |
 | 70  | [Climbing Stairs](./70_ClimbingStairs/) | |
+| 73  | [Set Matrix Zeroes](./1-100/73_SetMatrixZeroes) | |
 | 75  | [Sort Colors](./75_SortColors/) | |
 | 77  | [Combinations](./1-100/77_Combinations/) | |
 | 78  | [Subsets](./1-100/78_Subsets/) | |
@@ -59,7 +60,7 @@
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/description/) | |
 | 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/) | |
 | 116 | [Populating Next Right Pointers in Each Node](./116_PopulatingNextRightPointersInEachNode/) | |
-| 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | |
+| 118 | [Pascal's Triangle](./101-200/118_PascalTriangle) | |
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) | |
 | 121 | [Best Time to Buy and Sell Stock](./101-200/121_BestTimeToBuyAndSellStock) | |
 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | |
@@ -89,8 +90,8 @@
 | 349 | [Intersection of Two Arrays](./301-400/349_IntersectionOfTwoArrays/) | |
 | 350 | [Intersection of Two Arrays II](./301-400/350_IntersectionOfTwoArraysII) | |
 | 367 | [Valid Perfect Square](./367_ValidPerfectSquare) | |
-| 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/description/) | |
-| 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | |
+| 383 | [Ransom Note](./301-400/383_RansomNote) | |
+| 387 | [First Unique Character in a String](./301-400/387_FirstUniqueCharacterInAString) | |
 | 415 | [Add Strings](https://leetcode.com/problems/add-strings/description/) | |
 | 456 | [132 Pattern](./456_132Pattern/) | |
 | 438 | [Find All Anagrams in a String](./438_FindAllAnagramsInAString/) | |
