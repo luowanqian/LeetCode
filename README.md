@@ -83,6 +83,7 @@
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) | |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | |
 | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) | |
+| 242 | [Valid Anagram](./201-300/242_ValidAnagram) | |
 | 328 | [Odd Even Linked List](./328_OddEvenLinkedList) | |
 | 341 | [Flatten Nested List Iterator](./341_FlattenNestedListIterator/) | |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) | |
