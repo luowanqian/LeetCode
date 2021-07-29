@@ -17,7 +17,7 @@
 | 17  | [Letter Combinations of a Phone Number](./1-100/17_LetterCombinationsOfAPhoneNumber/) | |
 | 19  | [Remove Nth Node From End of List](./19_RemoveNthNodeFromEndOfList/) | |
 | 20  | [Valid Parentheses](./20_ValidParentheses/) | |
-| 21  | [Merge Two Sorted Lists](./21_MergeTwoSortedLists/) | |
+| 21  | [Merge Two Sorted Lists](./1-100/21_MergeTwoSortedLists) | |
 | 26  | [Remove Duplicates from Sorted Array](./26_RemoveDuplicatesFromSortedArray/) | |
 | 27  | [Remove Element](./27_RemoveElement/) | |
 | 28  | [Implement strStr()](./28_Implement_Strstr/) | |
@@ -65,7 +65,7 @@
 | 121 | [Best Time to Buy and Sell Stock](./101-200/121_BestTimeToBuyAndSellStock) | |
 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/description/) | |
-| 141 | [Linked List Cycle](./141_LinkedListCycle) | |
+| 141 | [Linked List Cycle](./101-200/141_LinkedListCycle) | |
 | 142 | [Linked List Cycle II](./142_LinkedListCycleII) | |
 | 144 | [Binary Tree Preorder Traversal](./101-200/144_BinaryTreePreorderTraversal/) | |
 | 145 | [Binary Tree Postorder Traversal](./101-200/145_BinaryTreePostorderTraversal/) | |
@@ -75,7 +75,7 @@
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/description/) | |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | |
-| 203 | [Remove Linked List Elements](./203_RemoveLinkedListElements) | |
+| 203 | [Remove Linked List Elements](./201-300/203_RemoveLinkedListElements) | |
 | 206 | [Reverse Linked List](./206_ReverseLinkedList/) | |
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | |

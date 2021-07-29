@@ -11,6 +11,7 @@ struct ListNode
 };
 
 ListNode* create_list_node(int value);
+void destroy_list_node(ListNode* node);
 void connect_list_nodes(ListNode *pre_node, ListNode *next_node);
 void print_list_node(ListNode *node);
 void print_list(ListNode *head);

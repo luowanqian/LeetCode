@@ -11,6 +11,13 @@ ListNode* create_list_node(int value)
     return node;
 }
 
+void destroy_list_node(ListNode* node)
+{
+    if (node == NULL)
+        return;
+    delete node;
+}
+
 void connect_list_nodes(ListNode *pre_node, ListNode *next_node)
 {
     if (pre_node == NULL)
