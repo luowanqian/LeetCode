@@ -71,7 +71,7 @@
 | 145 | [Binary Tree Postorder Traversal](./101-200/145_BinaryTreePostorderTraversal/) | |
 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) | |
 | 155 | [Min Stack](./155_MinStack/) | |
-| 160 | [Intersection of Two Linked Lists](./160_IntersectionOfTwoLinkedLists/) | |
+| 160 | [Intersection of Two Linked Lists](./101-200/160_IntersectionOfTwoLinkedLists/) | |
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/description/) | |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | |
