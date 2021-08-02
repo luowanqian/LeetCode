@@ -46,7 +46,7 @@
 | 83  | [Remove Duplicates from Sorted List](./83_RemoveDuplicatesFromSortedList/) | |
 | 88  | [Merge Sorted Array](./1-100/88_MergeSortedArray/) | |
 | 94  | [Binary Tree Inorder Traversal](./1-100/94_BinaryTreeInorderTraversal/) | |
-| 98  | [Validate Binary Search Tree](./98_ValidateBinarySearchTree/) | |
+| 98  | [Validate Binary Search Tree](./1-100/98_ValidateBinarySearchTree/) | |
 | 100 | [Same Tree](./100_SameTree/) | |
 | 101 | [Symmetric Tree](./101_SymmetricTree/) | |
 | 102 | [Binary Tree Level Order Traversal](./101-200/102_BinaryTreeLevelOrderTraversal/) | |
@@ -57,7 +57,7 @@
 | 109 | [Convert Sorted List to Binary Search Tree](./109_ConvertSortedListToBinarySearchTree/) | |
 | 110 | [Balanced Binary Tree](./110_BalancedBinaryTree/) | |
 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | |
-| 112 | [Path Sum](https://leetcode.com/problems/path-sum/description/) | |
+| 112 | [Path Sum](./101-200/112_PathSum) | |
 | 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/) | |
 | 116 | [Populating Next Right Pointers in Each Node](./116_PopulatingNextRightPointersInEachNode/) | |
 | 118 | [Pascal's Triangle](./101-200/118_PascalTriangle) | |
@@ -80,6 +80,7 @@
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | |
 | 217 | [Contains Duplicate](./201-300/217_ContainsDuplicate) | |
+| 226 | [Invert Binary Tree](./201-300/226_InvertBinaryTree) | |
 | 232 | [Implement Queue using Stacks](./201-300/232_ImplementQueueUsingStacks) | |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | |
 | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) | |
@@ -105,12 +106,15 @@
 | 566 | [Reshape the Matrix](./501-600/566_ReshapeTheMatrix) | |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) | |
 | 633 | [Sum of Square Numbers](./601-700/633_SumOfSquareNumbers) | Two Pointers |
+| 653 | [Two Sum IV - Input is a BST](./601-700/653_TwoSumIV-InputIsABST) | |
 | 657 | [Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/) | |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/) | |
 | 684 | [Redundant Connection](./601-700/684_RedundantConnection) | Union Find |
 | 690 | [Employee Importance](https://leetcode.com/problems/employee-importance/description/) | |
 | 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | |
 | 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/) | |
+| 700 | [Search in a Binary Search Tree](./601-700/700_SearchInABinarySearchTree) | |
+| 701 | [Insert into a Binary Search Tree](./701-800/701_InsertIntoABinarySearchTree) | |
 | 703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | |
 | 739 | [Daily Temperatures](./739_DailyTemperatures/) | |
 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) | |
