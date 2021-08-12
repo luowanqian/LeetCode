@@ -76,6 +76,7 @@
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | |
 | 169 | [Majority Element](./101-200/169_MajorityElement) | |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | |
+| 200 | [Number of Islands](./101-200/200_NumberOfIslands/) | |
 | 203 | [Remove Linked List Elements](./201-300/203_RemoveLinkedListElements) | |
 | 206 | [Reverse Linked List](./206_ReverseLinkedList/) | |
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | |
