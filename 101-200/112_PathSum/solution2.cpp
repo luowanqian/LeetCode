@@ -9,37 +9,23 @@ using namespace std;
  *     int val;
  *     TreeNode *left;
  *     TreeNode *right;
- *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
 class Solution {
 public:
-    bool findPathSum(TreeNode *node, int expect_sum, int current_sum)
-    {
-        current_sum += node->val;
-
-        // leaf node
-        if (node->left == NULL && node->right == NULL) {
-            if (current_sum == expect_sum)
-                return true;
-            else
-                return false;
-        }
-
-        bool ret = false;
-        if (!ret && node->left != NULL)
-            ret = findPathSum(node->left, expect_sum, current_sum);
-        if (!ret && node->right != NULL)
-            ret = findPathSum(node->right, expect_sum, current_sum);
-
-        return ret;
-    }
-
-    bool hasPathSum(TreeNode* root, int sum) {
-        if (root == NULL)
+    bool hasPathSum(TreeNode* root, int targetSum) {
+        if (root == nullptr)
             return false;
-
-        return findPathSum(root, sum, 0);
+        int sum = targetSum - root->val;
+        int leftRes = hasPathSum(root->left, sum);
+        int rightRes = hasPathSum(root->right, sum);
+        int curRes = false;
+        if (sum == 0 && root->left == nullptr && root->right == nullptr)
+            curRes = true;
+        return curRes || leftRes || rightRes;
     }
 };
 
@@ -63,7 +49,7 @@ int main()
 
     Solution solu;
     int sum = 22;
-    cout << solu.hasPathSum(node1, sum);
+    cout << solu.hasPathSum(node1, sum) << endl;
 
     return 0;
 }

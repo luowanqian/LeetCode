@@ -2,7 +2,6 @@
 #include "List.h"
 using namespace std;
 
-
 /**
  * Definition for singly-linked list.
  * struct ListNode {
@@ -38,7 +37,6 @@ public:
         return head;
     }
 };
-
 
 int main()
 {
