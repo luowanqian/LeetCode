@@ -79,7 +79,9 @@
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) | |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | |
 | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) | |
+| 283 | [Move Zeroes](./201-300/283_MoveZeroes/) | 数组, 双指针 |
 | 328 | [Odd Even Linked List](./328_OddEvenLinkedList) | |
+| 338 | [Counting Bits](./301-400/338_CountingBits/) | 位运算, 动态规划 |
 | 341 | [Flatten Nested List Iterator](./341_FlattenNestedListIterator/) | |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) | |
 | 347 | [Top K Frequent Elements](./347_TopKFrequentElements/) | |
