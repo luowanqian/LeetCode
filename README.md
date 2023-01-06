@@ -101,8 +101,9 @@
 | 383 | [Ransom Note](./301-400/383_RansomNote) | |
 | 387 | [First Unique Character in a String](./301-400/387_FirstUniqueCharacterInAString) | |
 | 415 | [Add Strings](https://leetcode.com/problems/add-strings/description/) | |
-| 456 | [132 Pattern](./456_132Pattern/) | |
 | 438 | [Find All Anagrams in a String](./438_FindAllAnagramsInAString/) | |
+| 456 | [132 Pattern](./456_132Pattern/) | 位运算 |
+| 461 | [Hamming Distance](./401-500/461_HammingDistance/) | |
 | 515 | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/) | |
 | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/description/) | |
 | 521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/) | |
