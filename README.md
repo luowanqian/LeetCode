@@ -63,6 +63,7 @@
 | 118 | [Pascal's Triangle](./101-200/118_PascalTriangle) | |
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) | |
 | 121 | [Best Time to Buy and Sell Stock](./101-200/121_BestTimeToBuyAndSellStock) | |
+| 129 | [Sum Root to Leaf Numbers](./101-200/129_SumRootToLeafNumbers/) | 树, 深度优先搜索, 二叉树 |
 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/description/) | |
 | 141 | [Linked List Cycle](./101-200/141_LinkedListCycle) | |
@@ -86,6 +87,7 @@
 | 232 | [Implement Queue using Stacks](./201-300/232_ImplementQueueUsingStacks) | |
 | 234 | [Palindrome Linked List](./201-300/234_PalindromeLinkedList/) | 栈, 递归, 链表, 双指针 |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](./201-300/235_LowestCommonAncestorOfABinarySearchTree) | |
+| 236 | [Lowest Common Ancestor of a Binary Tree](./201-300/236_LowestCommonAncestorOfABinaryTree/) | 树, 深度优先搜索, 二叉树 |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | |
 | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) | |
 | 242 | [Valid Anagram](./201-300/242_ValidAnagram) | |
@@ -102,17 +104,18 @@
 | 387 | [First Unique Character in a String](./301-400/387_FirstUniqueCharacterInAString) | |
 | 415 | [Add Strings](https://leetcode.com/problems/add-strings/description/) | |
 | 438 | [Find All Anagrams in a String](./438_FindAllAnagramsInAString/) | |
+| 448 | [Find All Numbers Disappeared in an Array](./401-500/448_FindAllNumbersDisappeared/) | 数组, 哈希表 |
 | 456 | [132 Pattern](./456_132Pattern/) | 位运算 |
 | 461 | [Hamming Distance](./401-500/461_HammingDistance/) | |
 | 515 | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/) | |
 | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/description/) | |
 | 521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/) | |
 | 532 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/) | |
-| 543 | [Diameter of Binary Tree](./543_DiameterOfBinaryTree/) | |
+| 543 | [Diameter of Binary Tree](.//501-600/543_DiameterOfBinaryTree/) | 树, 深度优先搜索, 二叉树 |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) | |
 | 566 | [Reshape the Matrix](./501-600/566_ReshapeTheMatrix) | |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) | |
-| 633 | [Sum of Square Numbers](./601-700/633_SumOfSquareNumbers) | Two Pointers |
+| 633 | [Sum of Square Numbers](./601-700/633_SumOfSquareNumbers) | 双指针 |
 | 653 | [Two Sum IV - Input is a BST](./601-700/653_TwoSumIV-InputIsABST) | |
 | 657 | [Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/) | |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/) | |

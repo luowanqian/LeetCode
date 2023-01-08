@@ -1,5 +1,7 @@
 /*
- * 2020-08-18
+ * LeetCode 543. Diameter of Binary Tree
+ * History:
+ *  2020.8.18 : first version
  */
 
 #include "BinaryTree.h"
