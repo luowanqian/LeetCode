@@ -18,8 +18,8 @@
 | 19  | [Remove Nth Node From End of List](./19_RemoveNthNodeFromEndOfList/) | |
 | 20  | [Valid Parentheses](./20_ValidParentheses/) | |
 | 21  | [Merge Two Sorted Lists](./1-100/21_MergeTwoSortedLists) | |
-| 26  | [Remove Duplicates from Sorted Array](./26_RemoveDuplicatesFromSortedArray/) | |
-| 27  | [Remove Element](./27_RemoveElement/) | |
+| 26  | [Remove Duplicates from Sorted Array](./1-100/26_RemoveDuplicatesFromSortedArray/) | 数组, 双指针 |
+| 27  | [Remove Element](./1-100/27_RemoveElement/) | 数组, 双指针 |
 | 28  | [Implement strStr()](./28_Implement_Strstr/) | |
 | 29  | [Divide Two Integers](./29_DivideTwoIntegers/) | |
 | 31  | [Next Permutation](./31_NextPermutation/) | |
@@ -119,6 +119,7 @@
 | 653 | [Two Sum IV - Input is a BST](./601-700/653_TwoSumIV-InputIsABST) | |
 | 657 | [Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/) | |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/) | |
+| 674 | [Longest Continuous Increasing Subsequence](./601-700/674_LongestContinuousIncreasingSubsequence/) | 数组 |
 | 684 | [Redundant Connection](./601-700/684_RedundantConnection) | Union Find |
 | 690 | [Employee Importance](https://leetcode.com/problems/employee-importance/description/) | |
 | 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | |
