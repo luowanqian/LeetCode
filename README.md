@@ -116,6 +116,7 @@
 | 566 | [Reshape the Matrix](./501-600/566_ReshapeTheMatrix) | |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) | |
 | 633 | [Sum of Square Numbers](./601-700/633_SumOfSquareNumbers) | 双指针 |
+| 643 | [Maximum Average Subarray I](./601-700/643_MaximumAverageSubarrayI/) | 数组, 滑动窗口 |
 | 653 | [Two Sum IV - Input is a BST](./601-700/653_TwoSumIV-InputIsABST) | |
 | 657 | [Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/) | |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/) | |
@@ -137,5 +138,6 @@
 | 1191 | [K-Concatenation Maximum Sum](./1101-1200/1191_K-ConcatenationMaximumSum/) | Dynamic Programming |
 | 1143 | [Longest Common Subsequence](./1101-1200/1143_LongestCommonSubsequence/) | |
 | 1219 | [Path with Maximum Gold](./1201-1300/1219_PathWithMaximumGold/) | Backtracking |
+| 1423 | [Maximum Points You Can Obtain from Cards](./1401-1500/1423_MaximumPointsYouCanObtainFromCards/) | 数组, 滑动窗口, 前缀和 |
 | 1472 | [Design Browser History](./1401-1500/1472_DesignBrowserHistory/) | |
 
