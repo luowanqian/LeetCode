@@ -112,6 +112,7 @@
 | 521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/) | |
 | 532 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/) | |
 | 543 | [Diameter of Binary Tree](.//501-600/543_DiameterOfBinaryTree/) | 树, 深度优先搜索, 二叉树 |
+| 547 | [Number of Provinces](./501-600/547_NumberOfProvinces/) | 并查集 |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) | |
 | 566 | [Reshape the Matrix](./501-600/566_ReshapeTheMatrix) | |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) | |
