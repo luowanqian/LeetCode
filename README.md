@@ -123,7 +123,7 @@
 | 674 | [Longest Continuous Increasing Subsequence](./601-700/674_LongestContinuousIncreasingSubsequence/) | 数组 |
 | 684 | [Redundant Connection](./601-700/684_RedundantConnection) | Union Find |
 | 690 | [Employee Importance](https://leetcode.com/problems/employee-importance/description/) | |
-| 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | |
+| 695 | [Max Area of Island](./601-700/695_MaxAreaOfIsland/) | DFS |
 | 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/) | |
 | 700 | [Search in a Binary Search Tree](./601-700/700_SearchInABinarySearchTree) | |
 | 701 | [Insert into a Binary Search Tree](./701-800/701_InsertIntoABinarySearchTree) | |
