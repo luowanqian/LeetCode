@@ -1,4 +1,6 @@
-# LeetCode 解题代码
+# LeetCode 
+
+## 解题代码
 
 部分题目有题解，见 [LeetCode Content](http://www.scutmath.com/contents/)
 
@@ -142,3 +144,8 @@
 | 1423 | [Maximum Points You Can Obtain from Cards](./1401-1500/1423_MaximumPointsYouCanObtainFromCards/) | 数组, 滑动窗口, 前缀和 |
 | 1472 | [Design Browser History](./1401-1500/1472_DesignBrowserHistory/) | |
 
+## 参考资料
+
+一些有用的参考资料
+
+1. [C++ STL powerful guide | Compiled list of popular STL operations](https://leetcode.com/discuss/study-guide/1154632/c-stl-powerful-guide-compiled-list-of-popular-stl-operations)
