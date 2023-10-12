@@ -149,3 +149,4 @@
 一些有用的参考资料
 
 1. [C++ STL powerful guide | Compiled list of popular STL operations](https://leetcode.com/discuss/study-guide/1154632/c-stl-powerful-guide-compiled-list-of-popular-stl-operations)
+2. [滑动窗口（思路 + 模板）](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/thinkings/slide-window)
